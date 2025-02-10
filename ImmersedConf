@@ -1,0 +1,16 @@
+DisableNVENC=0
+DisableQuickSync=1
+DisableVAAPI=0
+DisableHEVC=0
+DisableAMF=1
+DisableGPUResize=0
+EnableAudio=0
+HideAtLaunch=0
+EnableAreaCapture=1
+IgnoreUpdate=0
+TryVA1First=0
+ForceGPUDeviceName=
+CameraDevice=/dev/video0
+Data={"ADB":"{\\"Devices\\":[]}","ADBPath":"usr/bin/adb","Analytics":"{\\"Data\\":[],\\"IsEnabled\\":true}","Capture":"{\\"EnableAppFrames\\":false,\\"FPS\\":60.0,\\"FPSFor2\\":60.0,\\"FPSFor4\\":30.0,\\"SavedFrames\\":[]}","Client":"2vo2H1utDmU2Z6fpf0roLhug5ldlwMmE3ZRmGdxfqUJmxSw8VorqnhZCPNJmRq1TxRMOwQMZQjNuhFYonZ1kANOTx1OWMK43YFCdyRysNcRz5BgvRvA86+0k4cYfsesKvZvBJsie+/ZjDyBDPAnYMQ==","EnableAudio":false,"Encode":{"Codec":3,"Encoder":"Auto","ForceBitrate":0,"GPU":{"LocalCaptureFPS":60.0,"LocalMaxBitrate":16000.0,"LocalMinBitrate":4000.0,"RemoteCaptureFPS":30.0,"RemoteMaxBitrate":8000.0,"RemoteMinBitrate":1000.0},"Quality":0.8},"ForceIPAddress":"","ForcePort":0,"ForceStreamPort":0,"Log":"{\\"CurrentSuccessCount\\":6,\\"EnableForceLog\\":false}","SettingVersion":1,"WebRTC":"null"}
+VDData={"Displays":["{\\"Height\\":1200,\\"IsEnabled\\":true,\\"IsRotated\\":false,\\"Width\\":1920}","{\\"Height\\":1200,\\"IsEnabled\\":true,\\"IsRotated\\":false,\\"Width\\":1920}","{\\"Height\\":720,\\"IsEnabled\\":false,\\"IsRotated\\":false,\\"Width\\":1280}","{\\"Height\\":720,\\"IsEnabled\\":false,\\"IsRotated\\":false,\\"Width\\":1280}"]}
+IgnoreCameraCheck=1
