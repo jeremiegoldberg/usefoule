@@ -1,0 +1,12 @@
+2025-01-29 15:19:51.574 I [Main Thread] ADB Path: usr/bin/adb
+2025-01-29 15:19:51.605 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:19:51.606 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 15:19:51.606 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 15:19:51.665 I [Main Thread] ======== Encoder Factory ========
+2025-01-29 15:19:51.665 I [Main Thread] NVENC: Unsupported (HEVC: Unsupported)
+2025-01-29 15:19:51.665 I [Main Thread] VAAPI: Supported
+2025-01-29 15:19:51.665 I [Main Thread] - Expected Screen Count: 1. HEVC Unsupported
+2025-01-29 15:19:51.665 I [Main Thread] =================================
+2025-01-29 15:19:51.665 E [Main Thread] Failed to open uinput.
+2025-01-29 15:19:51.673 E [Main Thread] Setup PairingCode Server exception bind: Address already in use [system:98 at /home/runner/work/immersed-linux-app/immersed-linux-app/immersed-agent/Common/3rdParty/boost/asio/detail/reactive_socket_service.hpp:161 in function 'bind']
+2025-01-29 15:19:54.243 W [Immersed] UserID or DeviceID is not ready yet.

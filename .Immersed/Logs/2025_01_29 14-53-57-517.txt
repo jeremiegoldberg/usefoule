@@ -1,0 +1,29 @@
+2025-01-29 14:53:57.519 I [Main Thread] ADB Path: usr/bin/adb
+2025-01-29 14:53:57.557 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 14:53:57.557 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 14:53:57.557 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 14:53:57.636 I [Main Thread] ======== Encoder Factory ========
+2025-01-29 14:53:57.636 I [Main Thread] NVENC: Unsupported (HEVC: Unsupported)
+2025-01-29 14:53:57.636 I [Main Thread] VAAPI: Supported
+2025-01-29 14:53:57.636 I [Main Thread] - Expected Screen Count: 1. HEVC Unsupported
+2025-01-29 14:53:57.636 I [Main Thread] =================================
+2025-01-29 14:53:57.636 E [Main Thread] Failed to open uinput.
+2025-01-29 14:53:58.030 W [Main Thread] Checking Virtual Camera /dev/video0 from config.
+2025-01-29 14:53:58.030 W [Main Thread] Openning Virtual Camera /dev/video0.
+2025-01-29 14:53:58.030 E [Main Thread] Failed VIDIOC_G_FMT -1
+2025-01-29 14:53:58.032 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 14:54:04.437 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 14:54:22.268 I [Main Thread] Close socket.io socket. /
+2025-01-29 14:54:22.268 E [Main Thread] Did not find function in url map: RestoreBrightness
+2025-01-29 14:54:22.268 I [Main Thread] Deny connection: 0
+2025-01-29 14:54:23.237 I [Main Thread] Close socket.io socket. /

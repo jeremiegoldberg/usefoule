@@ -1,0 +1,446 @@
+2025-01-29 15:20:54.950 I [Main Thread] ADB Path: usr/bin/adb
+2025-01-29 15:20:54.982 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:20:54.982 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 15:20:54.982 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 15:20:55.041 I [Main Thread] ======== Encoder Factory ========
+2025-01-29 15:20:55.041 I [Main Thread] NVENC: Unsupported (HEVC: Unsupported)
+2025-01-29 15:20:55.041 I [Main Thread] VAAPI: Supported
+2025-01-29 15:20:55.041 I [Main Thread] - Expected Screen Count: 1. HEVC Unsupported
+2025-01-29 15:20:55.041 I [Main Thread] =================================
+2025-01-29 15:20:55.042 E [Main Thread] Failed to open uinput.
+2025-01-29 15:20:55.420 W [Main Thread] Checking Virtual Camera /dev/video0 from config.
+2025-01-29 15:20:55.420 W [Main Thread] Openning Virtual Camera /dev/video0.
+2025-01-29 15:20:55.420 E [Main Thread] Failed VIDIOC_G_FMT -1
+2025-01-29 15:20:55.421 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:21:08.266 E [Immersed] curl_easy_perform() https://api.immersed.com/users/agents/b5c5aad0-9343-4c37-a8ad-704039710f3d?sn=519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100&name=jgonlabs&os=Linux&ip=192.168.63.86:21000 failed: Timeout was reached
+2025-01-29 15:21:08.302 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:26.473 I [Immersed] Connected with new client 192.168.63.79
+2025-01-29 15:22:26.473 I [Immersed] 
+
+================================================
+Did Connect Message Manager
+================================================
+
+2025-01-29 15:22:26.486 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:22:26.486 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:26.487 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:22:26.487 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:26.565 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:22:26.604 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:22:26.640 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:22:26.707 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:26.707 W [Immersed] Stream Peer doesn't exist to make capture. *** SAME LOG 2 TIMES!! ***
+2025-01-29 15:22:26.707 E [Immersed] Failed to open uinput.
+2025-01-29 15:22:26.752 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:26.802 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:26.832 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:27.052 I [Immersed] 
+
+======================== Start New Session ========================
+ID: 4d82fb0c-d7b2-47ce-81c8-4bf91104b7cc
+===================================================================
+
+2025-01-29 15:22:27.184 W [signaling_threa] Needs renegotiation. ICE Status:0
+2025-01-29 15:22:27.196 W [signaling_threa] Signaling Status Change - status: 1, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:22:27.260 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:22:27.459 W [signaling_threa] Signaling Status Change - status: 0, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:22:27.462 I [signaling_threa] Ice Status Change - status: 1, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:22:27.506 I [signaling_threa] Ice Status Change - status: 2, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:22:27.507 I [signaling_threa] Ice Status Change - status: 3, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:22:27.509 E [threaded-ml] Error eol2 1
+2025-01-29 15:22:28.232 E [Immersed] Did not find function in url map: DimScreen
+2025-01-29 15:22:31.211 I [Immersed] 
+
+================================================
+Did Receive Display Origin Change with List Index: 0 x:0 y:0
+Index: 1 x:-1920 y:0
+Index: 2 x:1920 y:0
+================================================
+
+2025-01-29 15:22:31.211 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:22:33.132 E [Immersed] Did not find function in url map: RestoreBrightness
+2025-01-29 15:22:39.140 E [Immersed] Did not find function in url map: DimScreen
+2025-01-29 15:22:40.246 I [Immersed] 
+
+================================================
+Did Receive Display Origin Change with List Index: 0 x:0 y:0
+Index: 1 x:-1920 y:0
+Index: 2 x:1920 y:0
+================================================
+
+2025-01-29 15:22:40.246 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:23:08.272 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 58.825 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2033 FPS:60.58 Bitrate: 119kbps TotalBytes: 1035KB Latency: 0.0044s Quality: 0.00 RTT: 129 PacketLoss: 0.000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 58.801 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2032 FPS:59.91 Bitrate: 40kbps TotalBytes: 1117KB Latency: 0.0047s Quality: 0.00 RTT: 129 PacketLoss: 0.000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 59.219 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2032 FPS:59.92 Bitrate: 35kbps TotalBytes: 953KB Latency: 0.0046s Quality: 0.00 RTT: 129 PacketLoss: 0.000000"
+=============================================================
+
+2025-01-29 15:23:19.865 W [Immersed] TCP Disconnected by Read Error Connexion ré-initialisée par le correspondant
+2025-01-29 15:23:19.865 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 59.110 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2728 FPS:59.98 Bitrate: 119kbps TotalBytes: 1208KB Latency: 0.0045s Quality: 0.00 RTT: 22 PacketLoss: 0.000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 59.086 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2728 FPS:59.97 Bitrate: 40kbps TotalBytes: 1176KB Latency: 0.0043s Quality: 0.00 RTT: 22 PacketLoss: 0.000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 58.884 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2728 FPS:60.00 Bitrate: 35kbps TotalBytes: 1004KB Latency: 0.0043s Quality: 0.00 RTT: 22 PacketLoss: 0.000000"
+=============================================================
+
+2025-01-29 15:23:19.949 I [Immersed] Close socket.io socket. /
+2025-01-29 15:23:19.949 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - Not Running
+Encoder - ""
+ScreenID: "1", Name: ""
+Capture - Not Running
+Encoder - ""
+ScreenID: "2", Name: ""
+Capture - Not Running
+Encoder - ""
+=============================================================
+
+2025-01-29 15:23:19.993 W [Main Thread] PipeWire stream disconnected 0
+2025-01-29 15:23:20.063 W [Main Thread] PipeWire stream disconnected 0
+2025-01-29 15:23:20.578 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:23:20.590 W [Main Thread] PipeWire stream disconnected 0
+2025-01-29 15:23:20.646 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:23:20.646 E [Immersed] Failed to open uinput.
+2025-01-29 15:23:20.678 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:23:20.695 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:23:20.713 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:23:20.730 E [Main Thread] Did not find function in url map: RestoreBrightness
+2025-01-29 15:23:20.730 I [Main Thread] Deny connection: 0
+2025-01-29 15:23:20.761 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:23:29.949 E [Immersed] curl_easy_perform() https://api.immersed.com/users/vrSessionTimeInfo?time=52&sn=519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100&device_timestamp=2025/01/29T14:22:27Z&device_type=desktop failed: Timeout was reached
+2025-01-29 15:23:29.950 E [Immersed] Failed uploading times. result: 28
+2025-01-29 15:23:29.950 E [Immersed] Retry uploading times.
+2025-01-29 15:23:36.047 E [Immersed] curl_easy_perform() https://api.amplitude.com/2/httpapi failed: Timeout was reached
+2025-01-29 15:23:39.950 E [Immersed] curl_easy_perform() https://api.immersed.com/users/vrSessionTimeInfo?time=52&sn=519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100&device_timestamp=2025/01/29T14:22:27Z&device_type=desktop failed: Timeout was reached
+2025-01-29 15:23:39.950 E [Immersed] Failed uploading times. result: 28
+2025-01-29 15:23:39.951 E [Immersed] Retry uploading times.
+2025-01-29 15:23:44.950 E [Immersed] curl_easy_perform() https://api.amplitude.com/2/httpapi failed: Timeout was reached
+2025-01-29 15:23:49.950 E [Immersed] curl_easy_perform() https://api.immersed.com/users/vrSessionTimeInfo?time=52&sn=519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100&device_timestamp=2025/01/29T14:22:27Z&device_type=desktop failed: Timeout was reached
+2025-01-29 15:23:49.950 E [Immersed] Failed uploading times. result: 28
+2025-01-29 15:23:49.951 E [Immersed] Retry uploading times.
+2025-01-29 15:24:04.955 E [Immersed] curl_easy_perform() https://api.amplitude.com/2/httpapi failed: Timeout was reached
+2025-01-29 15:27:35.412 I [Immersed] Connected with new client 192.168.63.79
+2025-01-29 15:27:35.412 E [Immersed] curl_easy_perform() https://api.immersed.com/users/vrSessionTimeInfo?time=52&sn=519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100&device_timestamp=2025/01/29T14:22:27Z&device_type=desktop failed: Timeout was reached *** SAME LOG 7 TIMES!! ***
+2025-01-29 15:27:35.412 I [Immersed] 
+
+================================================
+Did Connect Message Manager
+================================================
+
+2025-01-29 15:27:35.420 E [Main Thread] Failed uploading times. result: 28 *** SAME LOG 7 TIMES!! ***
+2025-01-29 15:27:35.420 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:27:35.420 E [Main Thread] Retry uploading times. *** SAME LOG 7 TIMES!! ***
+2025-01-29 15:27:35.420 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:35.456 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:27:35.456 E [Main Thread] curl_easy_perform() https://api.amplitude.com/2/httpapi failed: Timeout was reached *** SAME LOG 6 TIMES!! ***
+2025-01-29 15:27:35.456 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:35.464 W [Main Thread] PipeWire stream disconnected 0
+2025-01-29 15:27:35.524 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:27:35.557 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 15:27:35.637 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:27:35.652 W [Immersed] Stream Peer doesn't exist to make capture. *** SAME LOG 2 TIMES!! ***
+2025-01-29 15:27:35.652 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:35.652 E [Immersed] Failed to open uinput.
+2025-01-29 15:27:35.681 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:35.745 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:35.784 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:35.809 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:27:37.661 I [Immersed] 
+
+======================== Start New Session ========================
+ID: 8b3ed81f-ee49-488d-b385-e74c25e6cb9e
+===================================================================
+
+2025-01-29 15:27:38.072 W [signaling_threa] Needs renegotiation. ICE Status:0
+2025-01-29 15:27:38.088 W [signaling_threa] Signaling Status Change - status: 1, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:27:38.155 I [pipewire-main-l] New capture size: 1920 1200
+2025-01-29 15:27:38.213 W [signaling_threa] Signaling Status Change - status: 0, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:27:38.214 I [signaling_threa] Ice Status Change - status: 1, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:27:38.558 I [signaling_threa] Ice Status Change - status: 2, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:27:38.559 I [signaling_threa] Ice Status Change - status: 3, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:27:38.560 E [threaded-ml] Error eol2 1
+2025-01-29 15:27:39.216 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:27:39.217 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1207 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:27:39.518 E [Immersed] Did not find function in url map: DimScreen
+2025-01-29 15:27:39.534 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:27:39.534 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1207 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:27:39.534 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:27:39.534 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1207 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:27:44.353 I [Immersed] 
+
+================================================
+Did Receive Display Origin Change with List Index: 0 x:0 y:0
+Index: 1 x:-1920 y:0
+Index: 2 x:1920 y:0
+================================================
+
+2025-01-29 15:27:44.353 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:28:19.950 E [Immersed] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11 *** SAME LOG 1 TIMES!! ***
+2025-01-29 15:28:19.950 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 59,050 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2482 FPS:59,95 Bitrate: 597kbps TotalBytes: 2647KB Latency: 0,0044s Quality: 0,00 RTT: 39 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 59,040 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2484 FPS:59,93 Bitrate: 571kbps TotalBytes: 2916KB Latency: 0,0042s Quality: 0,00 RTT: 39 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 59,239 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:2484 FPS:59,92 Bitrate: 1061kbps TotalBytes: 2108KB Latency: 0,0043s Quality: 0,00 RTT: 39 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:29:19.951 E [Immersed] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1207 bytes to host 192.168.63.x:42514 failed with error 11 *** SAME LOG 1 TIMES!! ***
+2025-01-29 15:29:19.951 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 56,597 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:6082 FPS:59,97 Bitrate: 203kbps TotalBytes: 6391KB Latency: 0,0080s Quality: 0,00 RTT: 52 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 56,427 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:6083 FPS:60,06 Bitrate: 37kbps TotalBytes: 6365KB Latency: 0,0090s Quality: 0,00 RTT: 52 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 56,501 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:6083 FPS:59,99 Bitrate: 37kbps TotalBytes: 6545KB Latency: 0,0095s Quality: 0,00 RTT: 52 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:30:19.951 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 56,446 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:9682 FPS:60,10 Bitrate: 43kbps TotalBytes: 8344KB Latency: 0,0088s Quality: 0,00 RTT: 122 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 56,740 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:9683 FPS:59,93 Bitrate: 221kbps TotalBytes: 8689KB Latency: 0,0106s Quality: 0,00 RTT: 122 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 56,563 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:9683 FPS:60,20 Bitrate: 37kbps TotalBytes: 7348KB Latency: 0,0092s Quality: 0,00 RTT: 122 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:31:19.951 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 56,633 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:13282 FPS:60,07 Bitrate: 43kbps TotalBytes: 8834KB Latency: 0,0110s Quality: 0,00 RTT: 16 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 56,293 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:13284 FPS:59,97 Bitrate: 180kbps TotalBytes: 10319KB Latency: 0,0095s Quality: 0,00 RTT: 16 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 56,556 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:13284 FPS:59,99 Bitrate: 35kbps TotalBytes: 7932KB Latency: 0,0095s Quality: 0,00 RTT: 16 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:32:19.952 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 56,626 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:16882 FPS:59,81 Bitrate: 43kbps TotalBytes: 9324KB Latency: 0,0100s Quality: 0,00 RTT: 10 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 56,230 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:16883 FPS:60,01 Bitrate: 185kbps TotalBytes: 12447KB Latency: 0,0094s Quality: 0,00 RTT: 10 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 56,254 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:16883 FPS:60,13 Bitrate: 35kbps TotalBytes: 8677KB Latency: 0,0100s Quality: 0,00 RTT: 10 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:33:01.628 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1198 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:01.785 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1209 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:02.110 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:02.745 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1198 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:04.029 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1198 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:19.952 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 56,694 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:20482 FPS:59,79 Bitrate: 3984kbps TotalBytes: 24125KB Latency: 0,0095s Quality: 0,00 RTT: 10 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 56,582 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:20483 FPS:59,95 Bitrate: 3011kbps TotalBytes: 24054KB Latency: 0,0100s Quality: 0,00 RTT: 10 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 56,625 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:20483 FPS:60,11 Bitrate: 3627kbps TotalBytes: 21945KB Latency: 0,0096s Quality: 0,00 RTT: 10 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:33:39.324 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1200 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:39.324 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:39.324 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1200 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:39.324 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:39.324 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1200 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:42.207 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1201 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:42.838 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1201 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:43.809 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1201 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:33:45.073 E [Immersed] Did not find function in url map: RestoreBrightness
+2025-01-29 15:33:45.073 E [Immersed] Did not find function in url map: RestoreBrightness
+2025-01-29 15:33:45.194 E [Immersed] Did not find function in url map: RestoreBrightness
+2025-01-29 15:33:46.092 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1206 bytes to host 192.168.63.x:42514 failed with error 11 *** SAME LOG 3 TIMES!! ***
+2025-01-29 15:33:46.092 E [network_thread ] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1207 bytes to host 192.168.63.x:42514 failed with error 11
+2025-01-29 15:34:19.953 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - "Wayland" (1920, 0) 1920 x 1200 @ 57,338 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:22025 FPS:2,85 Bitrate: 450kbps TotalBytes: 34956KB Latency: 0,0095s Quality: 0,00 RTT: 98 PacketLoss: 0,000000"
+ScreenID: "1", Name: ""
+Capture - "Wayland" (0, 0) 1920 x 1200 @ 57,323 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:22026 FPS:2,85 Bitrate: 296kbps TotalBytes: 32770KB Latency: 0,0095s Quality: 0,00 RTT: 98 PacketLoss: 0,000000"
+ScreenID: "2", Name: ""
+Capture - "Wayland" (3840, 0) 1920 x 1200 @ 57,519 FPS
+Encoder - "H264 VAAPI 1920x1200 TotalFrame:22026 FPS:2,85 Bitrate: 405kbps TotalBytes: 31851KB Latency: 0,0099s Quality: 0,00 RTT: 98 PacketLoss: 0,000000"
+=============================================================
+
+2025-01-29 15:34:31.160 E [signaling_threa] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1200 bytes to host 192.168.63.x:42514 failed with error 11 *** SAME LOG 2 TIMES!! ***
+2025-01-29 15:34:31.160 I [signaling_threa] Ice Status Change - status: 5, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:34:41.162 E [signaling_threa] WEBRTC Error - [14261] (stun_port.cc:311): Port[f8067dd0:0:1:0:local:Net[wlp0s20f3:192.168.63.x/24:Unknown:id=2]]: UDP send of 1201 bytes to host 192.168.63.x:42514 failed with error 11 *** SAME LOG 1 TIMES!! ***
+2025-01-29 15:34:41.162 I [signaling_threa] Ice Status Change - status: 4, peerId: OfflineConnection, userId: 519EFF88D18A39607A9AFA40634C49A00E96B6C058D8AB98B7A2562C1B629440491C909C12CA66302B3410A07456DFD0452487AC8BC806F83EE0D5D84B200100
+2025-01-29 15:35:19.953 I [Immersed] 
+
+======================== Screen Info ========================
+ScreenID: "0", Name: ""
+Capture - Not Running
+Encoder - ""
+ScreenID: "1", Name: ""
+Capture - Not Running
+Encoder - ""
+ScreenID: "2", Name: ""
+Capture - Not Running
+Encoder - ""
+=============================================================
+

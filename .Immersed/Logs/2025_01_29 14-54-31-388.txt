@@ -1,0 +1,53 @@
+2025-01-29 14:54:31.389 I [Main Thread] ADB Path: usr/bin/adb
+2025-01-29 14:54:31.420 W [Main Thread] Stream Peer doesn't exist to make capture.
+2025-01-29 14:54:31.420 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 14:54:31.420 W [Main Thread] NVENC version is not available. Likely unsupported.
+2025-01-29 14:54:31.478 I [Main Thread] ======== Encoder Factory ========
+2025-01-29 14:54:31.478 I [Main Thread] NVENC: Unsupported (HEVC: Unsupported)
+2025-01-29 14:54:31.478 I [Main Thread] VAAPI: Supported
+2025-01-29 14:54:31.478 I [Main Thread] - Expected Screen Count: 1. HEVC Unsupported
+2025-01-29 14:54:31.478 I [Main Thread] =================================
+2025-01-29 14:54:31.479 E [Main Thread] Failed to open uinput.
+2025-01-29 14:54:31.860 W [Main Thread] Checking Virtual Camera /dev/video0 from config.
+2025-01-29 14:54:31.860 W [Main Thread] Openning Virtual Camera /dev/video0.
+2025-01-29 14:54:31.860 E [Main Thread] Failed VIDIOC_G_FMT -1
+2025-01-29 14:54:31.862 I [Immersed] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 14:54:37.344 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:18:59.628 I [Immersed] Connected with new client 192.168.63.79
+2025-01-29 15:18:59.628 I [Immersed] 
+
+================================================
+Did Connect Message Manager
+================================================
+
+2025-01-29 15:18:59.629 W [Immersed] Failed to start screen cast session: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’objet n’existe pas à l’emplacement « /org/gnome/Mutter/RemoteDesktop/Session/u5 »
+2025-01-29 15:18:59.629 W [Immersed] Failed to start screen cast session: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’objet n’existe pas à l’emplacement « /org/gnome/Mutter/RemoteDesktop/Session/u6 »
+2025-01-29 15:19:37.232 I [Immersed] Connected with new client 192.168.63.79
+2025-01-29 15:19:42.233 I [Immersed] 
+
+================================================
+Did Connect Message Manager
+================================================
+
+2025-01-29 15:19:42.233 W [Immersed] Failed to start screen cast session: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’objet n’existe pas à l’emplacement « /org/gnome/Mutter/RemoteDesktop/Session/u5 »
+2025-01-29 15:19:42.234 W [Immersed] Failed to start screen cast session: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’objet n’existe pas à l’emplacement « /org/gnome/Mutter/RemoteDesktop/Session/u6 »
+2025-01-29 15:19:48.213 I [Main Thread] 
+
+======================== Saved App Frame ========================
+
+=================================================================
+
+2025-01-29 15:19:53.215 I [Main Thread] Close socket.io socket. /
+2025-01-29 15:19:53.216 E [Main Thread] Did not find function in url map: RestoreBrightness
+2025-01-29 15:19:53.216 I [Main Thread] Deny connection: 0
+2025-01-29 15:19:54.538 I [Main Thread] Close socket.io socket. /
